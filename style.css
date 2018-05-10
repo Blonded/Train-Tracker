@@ -1,0 +1,17 @@
+
+html, body {
+    background: black;
+}
+
+.container{
+    background-color: grey;
+}
+.jumbotron {
+    background-color: maroon;
+    color: white;
+}
+
+.panel-primary{
+    
+}
+
