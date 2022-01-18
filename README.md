@@ -55,7 +55,7 @@ until the next train arrived.
 
 ## Authors
 
-* **Lena Martinson** - *Github* - [Github](https://github.com/Blonded)
+* **Lena Blonded** - *Github* - [Github](https://github.com/Blonded)
 * **BootStrap** - *Bootstrap* - [BootStrap](https://getbootstrap.com/)
 * **Firebase** - *FireBase* - [FireBase](https://firebase.google.com/)
 
